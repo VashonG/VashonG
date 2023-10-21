@@ -4,5 +4,11 @@
 ## Social Links
 [Aviyel](https://aviyel.com/@kaped)
 
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 
